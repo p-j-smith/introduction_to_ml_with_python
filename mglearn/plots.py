@@ -65,5 +65,6 @@ __all__ = ['plot_linear_svc_regularization',
            'plot_binary_confusion_matrix',
            'plot_decision_threshold',
            'plot_dbscan',
-           'plot_ridge_n_samples'
+           'plot_ridge_n_samples',
+           'plot_helpers'
            ]
