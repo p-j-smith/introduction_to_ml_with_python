@@ -29,7 +29,8 @@ from .plot_metrics import (plot_confusion_matrix_illustration,
 from .plot_dbscan import plot_dbscan
 from .plot_ridge import plot_ridge_n_samples
 
-__all__ = ['plot_linear_svc_regularization',
+__all__ = [
+           'plot_linear_svc_regularization',
            "plot_animal_tree", "plot_tree_progressive",
            'plot_tree_partition', 'plot_svm',
            'plot_knn_regression',

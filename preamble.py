@@ -1,7 +1,8 @@
-from IPython.display import set_matplotlib_formats, display
+from IPython.display import set_matplotlib_formats, display, Image
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import mglearn.plot_helpers
 import mglearn
 from cycler import cycler
 
